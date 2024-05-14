@@ -46,6 +46,6 @@ varsoc
 var fd_M2 fd_CPI, lags(1)
 
 
-// Impulse Response Function 
+// Graph of Impulse Response Function 
 
 irf graph irf, irf(varbasic) impulse(fd_CPI) response(fd_M2)
