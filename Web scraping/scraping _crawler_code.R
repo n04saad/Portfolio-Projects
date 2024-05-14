@@ -1,6 +1,5 @@
 library(rvest)
 library(dplyr)
-library(tidyr)
 
 get_info = function(book_links) {
   book_page = read_html(book_links)
