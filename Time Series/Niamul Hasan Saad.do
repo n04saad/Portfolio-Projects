@@ -1,4 +1,4 @@
-use "/Users/saad/Documents/Time series assignment/2/tsdata.dta"
+use "/Users/saad/Documents/Time series/2/tsdata.dta"
 
 // Converting the data into a time series dataset
 tsset Year
